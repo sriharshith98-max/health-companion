@@ -1,0 +1,11 @@
+HEALTHCARE BIOCHEMISTRY LABORATORY
+PATIENT TEST RESULTS
+
+Investigation                Observed Value    Biological Reference Interval
+----------------------------------------------------------------------------
+Fasting Blood Sugar (FBS)    138 mg/dL         70 - 99 mg/dL
+Hemoglobin                   12.0 g/dL         13.0 - 17.5 g/dL
+Total Cholesterol            195 mg/dL         < 200 mg/dL
+Serum Creatinine             0.9 mg/dL         0.7 - 1.3 mg/dL
+----------------------------------------------------------------------------
+End of Laboratory Report

@@ -1,0 +1,35 @@
+# Environment & secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Databases
+*.db
+*.sqlite3
+
+# Pytest / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

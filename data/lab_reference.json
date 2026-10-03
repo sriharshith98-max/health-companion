@@ -1,0 +1,170 @@
+{
+  "tests": {
+    "hemoglobin": {
+      "canonical": "hemoglobin",
+      "unit": "g/dL",
+      "ref_low": 13.0,
+      "ref_high": 17.5,
+      "critical_low": 7.0,
+      "critical_high": 20.0
+    },
+    "wbc": {
+      "canonical": "wbc",
+      "unit": "/cumm",
+      "ref_low": 4000.0,
+      "ref_high": 11000.0,
+      "critical_low": 2000.0,
+      "critical_high": 30000.0
+    },
+    "platelets": {
+      "canonical": "platelets",
+      "unit": "/cumm",
+      "ref_low": 150000.0,
+      "ref_high": 450000.0,
+      "critical_low": 50000.0,
+      "critical_high": 1000000.0
+    },
+    "fasting_glucose": {
+      "canonical": "fasting_glucose",
+      "unit": "mg/dL",
+      "ref_low": 70.0,
+      "ref_high": 99.0,
+      "critical_low": 50.0,
+      "critical_high": 400.0
+    },
+    "postprandial_glucose": {
+      "canonical": "postprandial_glucose",
+      "unit": "mg/dL",
+      "ref_low": 70.0,
+      "ref_high": 140.0,
+      "critical_low": 50.0,
+      "critical_high": 400.0
+    },
+    "random_glucose": {
+      "canonical": "random_glucose",
+      "unit": "mg/dL",
+      "ref_low": 70.0,
+      "ref_high": 140.0,
+      "critical_low": 50.0,
+      "critical_high": 400.0
+    },
+    "hba1c": {
+      "canonical": "hba1c",
+      "unit": "%",
+      "ref_low": 4.0,
+      "ref_high": 5.6,
+      "critical_low": null,
+      "critical_high": 10.0
+    },
+    "creatinine": {
+      "canonical": "creatinine",
+      "unit": "mg/dL",
+      "ref_low": 0.6,
+      "ref_high": 1.2,
+      "critical_low": null,
+      "critical_high": 3.5
+    },
+    "blood_urea_nitrogen": {
+      "canonical": "blood_urea_nitrogen",
+      "unit": "mg/dL",
+      "ref_low": 7.0,
+      "ref_high": 20.0,
+      "critical_low": null,
+      "critical_high": 80.0
+    },
+    "esr": {
+      "canonical": "esr",
+      "unit": "mm/hr",
+      "ref_low": 0.0,
+      "ref_high": 15.0,
+      "critical_low": null,
+      "critical_high": 100.0
+    },
+    "total_bilirubin": {
+      "canonical": "total_bilirubin",
+      "unit": "mg/dL",
+      "ref_low": 0.2,
+      "ref_high": 1.2,
+      "critical_low": null,
+      "critical_high": 12.0
+    },
+    "sgpt_alt": {
+      "canonical": "sgpt_alt",
+      "unit": "U/L",
+      "ref_low": 7.0,
+      "ref_high": 56.0,
+      "critical_low": null,
+      "critical_high": 500.0
+    },
+    "sgot_ast": {
+      "canonical": "sgot_ast",
+      "unit": "U/L",
+      "ref_low": 10.0,
+      "ref_high": 40.0,
+      "critical_low": null,
+      "critical_high": 500.0
+    },
+    "tsh": {
+      "canonical": "tsh",
+      "unit": "mIU/L",
+      "ref_low": 0.4,
+      "ref_high": 4.0,
+      "critical_low": 0.01,
+      "critical_high": 20.0
+    },
+    "crp": {
+      "canonical": "crp",
+      "unit": "mg/L",
+      "ref_low": 0.0,
+      "ref_high": 5.0,
+      "critical_low": null,
+      "critical_high": 50.0
+    }
+  },
+  "aliases": {
+    "hb": "hemoglobin",
+    "hgb": "hemoglobin",
+    "haemoglobin": "hemoglobin",
+    "hemoglobin count": "hemoglobin",
+    "tlc": "wbc",
+    "wbc count": "wbc",
+    "total leukocyte count": "wbc",
+    "total white blood count": "wbc",
+    "white blood cells": "wbc",
+    "plt": "platelets",
+    "platelet count": "platelets",
+    "total platelets": "platelets",
+    "platelet": "platelets",
+    "fbs": "fasting_glucose",
+    "fasting blood sugar": "fasting_glucose",
+    "fasting plasma glucose": "fasting_glucose",
+    "fasting glucose": "fasting_glucose",
+    "ppbs": "postprandial_glucose",
+    "post prandial blood sugar": "postprandial_glucose",
+    "pp blood sugar": "postprandial_glucose",
+    "rbs": "random_glucose",
+    "random blood sugar": "random_glucose",
+    "blood sugar": "random_glucose",
+    "glucose": "random_glucose",
+    "a1c": "hba1c",
+    "glycosylated hemoglobin": "hba1c",
+    "glycated hemoglobin": "hba1c",
+    "serum creatinine": "creatinine",
+    "creat": "creatinine",
+    "bun": "blood_urea_nitrogen",
+    "urea": "blood_urea_nitrogen",
+    "erythrocyte sedimentation rate": "esr",
+    "sed rate": "esr",
+    "bilirubin total": "total_bilirubin",
+    "total bilirubin": "total_bilirubin",
+    "alt": "sgpt_alt",
+    "sgpt": "sgpt_alt",
+    "alanine aminotransferase": "sgpt_alt",
+    "ast": "sgot_ast",
+    "sgot": "sgot_ast",
+    "aspartate aminotransferase": "sgot_ast",
+    "thyroid stimulating hormone": "tsh",
+    "c reactive protein": "crp",
+    "c-reactive protein": "crp"
+  }
+}

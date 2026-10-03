@@ -1,0 +1,107 @@
+{
+  "synonym_groups": {
+    "viral_upper_respiratory_infection": [
+      "viral upper respiratory infection",
+      "viral infection",
+      "viral fever",
+      "common cold",
+      "regular infection",
+      "acute uri",
+      "upper respiratory tract infection",
+      "urti",
+      "viral pharyngitis",
+      "flu",
+      "seasonal viral illness",
+      "rhinopharyngitis"
+    ],
+    "tuberculosis": [
+      "tuberculosis",
+      "tb",
+      "pulmonary tuberculosis",
+      "pulmonary tb",
+      "koch's",
+      "kochs",
+      "mycobacterial infection",
+      "mtb"
+    ],
+    "dengue": [
+      "dengue",
+      "dengue fever",
+      "breakbone fever",
+      "dengue viral infection",
+      "dengue with warning signs"
+    ],
+    "typhoid": [
+      "typhoid",
+      "typhoid fever",
+      "enteric fever",
+      "salmonella infection",
+      "salmonellosis"
+    ],
+    "malaria": [
+      "malaria",
+      "malarial fever",
+      "plasmodium vivax",
+      "plasmodium falciparum",
+      "plasmodium infection"
+    ],
+    "diabetes": [
+      "diabetes",
+      "diabetes mellitus",
+      "type 2 diabetes",
+      "type 2 diabetes mellitus",
+      "t2dm",
+      "type 1 diabetes",
+      "high blood sugar",
+      "hyperglycemia",
+      "weakness, vitamin deficiency"
+    ],
+    "anemia": [
+      "anemia",
+      "anaemia",
+      "iron deficiency anemia",
+      "low hemoglobin",
+      "microcytic anemia",
+      "nutritional anemia"
+    ],
+    "hypothyroidism": [
+      "hypothyroidism",
+      "underactive thyroid",
+      "low thyroid",
+      "hashimoto thyroiditis",
+      "thyroid hormone deficiency"
+    ],
+    "urinary_tract_infection": [
+      "urinary tract infection",
+      "uti",
+      "cystitis",
+      "bladder infection",
+      "pyelonephritis",
+      "urinary infection"
+    ],
+    "pneumonia": [
+      "pneumonia",
+      "chest infection",
+      "bronchopneumonia",
+      "community acquired pneumonia",
+      "lung infection",
+      "cap"
+    ],
+    "hepatitis": [
+      "hepatitis",
+      "viral hepatitis",
+      "acute hepatitis",
+      "jaundice",
+      "liver inflammation",
+      "hepatic infection"
+    ],
+    "chronic_kidney_disease": [
+      "chronic kidney disease",
+      "ckd",
+      "chronic renal failure",
+      "renal impairment",
+      "kidney disease",
+      "renal insufficiency"
+    ]
+  }
+}

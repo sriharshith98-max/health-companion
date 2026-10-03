@@ -1,0 +1,11 @@
+METROPOLIS DIAGNOSTIC LABORATORY
+PATIENT REPORT: CBC & INFLAMMATORY MARKERS
+
+Test Name                    Observed Value     Reference Interval
+------------------------------------------------------------------
+Hemoglobin                   11.8 g/dL          13.0 - 17.5
+Total WBC Count              9,200 /cumm        4,000 - 11,000
+Platelet Count               240,000 /cumm      150,000 - 450,000
+Erythrocyte Sed. Rate (ESR)  65 mm/hr           0 - 15 (HIGH)
+------------------------------------------------------------------
+End of Report
